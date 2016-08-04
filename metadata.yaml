@@ -1,0 +1,30 @@
+_repo: Sesame-and-Lilies_1293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: Lecture 1. Sesame; of King's treasuries. - Lecture 2. Lilies; of queens'
+  gardens.
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Conduct of life'
+- !lcsh 'Women'
+- !lcsh 'Books and reading -- Great Britain'
+- !lcsh 'Social problems'
+- GITenberg
+title: Sesame and Lilies
+url: http://www.gutenberg.org/ebooks/1293
